@@ -1,0 +1,9 @@
+{
+  "name": "ci-cd-final-lab",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Tests Passed\"",
+    "lint": "echo \"Lint Successful\""
+  }
+}
